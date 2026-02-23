@@ -14,12 +14,12 @@ SwiftUI App Clip Product Preview
 
 ## Required environment variables
 
-To test successful paths:
+- To test successful paths:
 	- https://shop.reactivapp.com/collections/all
 	- https://shop.reactivapp.com/product/unisex-hoodie
 	- https://shop.reactivapp.com/product/unisex-heavy-blend-full-zip-hooded-sweatshirt-black
 
-To test unsuccessful paths:
+- To test unsuccessful paths:
 	- https://shop.reactivapp.com/product/bad-url
 	- https://shop.reactivapp.com/bad-url
 	- https://testing-bad-url.com/
