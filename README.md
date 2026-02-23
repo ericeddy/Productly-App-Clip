@@ -39,6 +39,8 @@ SwiftUI App Clip Product Preview
 	- Swapping Environment Variables is currently the best way to test the app
 
 ## Assumptions & Decisions:
+App Icon:
+- In a production ready app I would ensure that the app icon bundle was generated, imported & being correctly used by the app.
 
 Error Logging: 
 - In a production ready app I would setup an error & crash reporting service like Sentry.
@@ -72,6 +74,11 @@ While I understand that the use of AI was encouraged for this project, my machin
 One key tradeoff incurred from not using AI is that I ran out of time to add accessibility modifiers needed to use voice over controls.
 Also due to these RAM issues, I do not have previews setup throughout my codebase to avoid any additional RAM usage.
 
-With more time I would add the accessibility modifiers, add a database for local storage of product data, set up Unit & UI Tests, and add pagination, search, sort & filter functions to the CatalogView. 
+With more time I would add:
+- an app icon
+- the accessibility modifiers
+- a database for local storage of product data
+- pagination, search, sort & filter functions to the CatalogView
+- and set up the Unit & UI Tests
 
 
