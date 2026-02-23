@@ -68,9 +68,9 @@ Robust URL Routing:
 
 ## ~AI Usage, Decision Log &~ Tradeoffs
 While I understand that the use of AI was encouraged for this project, my machine currently lacks the RAM required to use & integrate AI into my workflow just yet, so due to this I did not use AI tools for the planning, creation, design or development of this project. 
-Also due to these RAM issues, I do not have previews setup in my codebase to avoid additional RAM usage.
 
-One key technical tradeoff incurred from not using AI is that I ran out of time to add accessibility modifiers needed to use voice over controls.
+One key tradeoff incurred from not using AI is that I ran out of time to add accessibility modifiers needed to use voice over controls.
+Also due to these RAM issues, I do not have previews setup throughout my codebase to avoid any additional RAM usage.
 
 With more time I would add the accessibility modifiers, add a database for local storage of product data, set up Unit & UI Tests, and add pagination, search, sort & filter functions to the CatalogView. 
 
